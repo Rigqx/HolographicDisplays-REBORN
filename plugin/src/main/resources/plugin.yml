@@ -1,0 +1,14 @@
+name: HolographicDisplays
+prefix: HolographicDisplays-REBORN
+main: me.filoghost.holographicdisplays.plugin.HolographicDisplays
+authors: [filoghost, Rigqx]
+version: ${pluginVersion}
+api-version: 1.13
+
+softdepend: [PlaceholderAPI]
+
+commands:
+   holograms:
+      description: Main command for HolographicDisplays.
+      usage: /<command> (Startup error)
+      aliases: [hd, holo, hologram, holograms]

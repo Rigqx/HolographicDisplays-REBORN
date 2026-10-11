@@ -1,0 +1,21 @@
+# Maven
+target/
+.build/
+*.log
+/paper-builds.json
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# IntelliJ
+*.iml
+*.java___jb_tmp___
+.idea/
+
+# Netbeans
+nbproject/
+
+# OS X
+.DS_Store

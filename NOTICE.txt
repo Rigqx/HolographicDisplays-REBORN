@@ -1,0 +1,23 @@
+# HolographicDisplays-Reborn 3.0.6
+
+Original project: Holographic Displays  
+Original author: filoghost and contributors  
+Source: https://github.com/filoghost/HolographicDisplays  
+Fork maintained by: Rigqx
+
+## About this fork
+
+HolographicDisplays-Reborn is a modified version of the original Holographic Displays plugin, focused on keeping it working with newer Minecraft versions while maintaining support for older ones.
+
+This release adds a new compatibility adapter for modern Minecraft versions, improves version detection (including Paper), updates item NBT handling, and includes a few build and documentation improvements.
+
+All original APIs, legacy version adapters, and copyright notices have been kept. The internal plugin name is still `HolographicDisplays` to avoid breaking compatibility with existing plugins.
+
+## License & Credits
+HolographicDisplays-Reborn is licensed under GPL-3.0-or-later, just like the original project.
+
+Full license details can be found in `LICENSE.txt`, with additional credits in `THIRD-PARTY.txt`.
+
+This is an independent fork and is not officially maintained or endorsed by filoghost.
+If you redistribute this fork, make sure to keep the required copyright and license notices and provide the corresponding source code as required by the applicable licenses.
+Last updated: October 11, 2026.

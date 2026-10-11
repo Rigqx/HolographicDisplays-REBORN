@@ -1,0 +1,33 @@
+Holographic Displays contains code from the following third party projects, listed with their license information.
+
+[bStats Metrics]
+URL: https://github.com/Bastian/bStats-Metrics
+License: GNU Lesser General Public License v3.0
+
+[EisenNBT]
+URL: https://github.com/Eisenwave/eisen-nbt
+License: MIT License
+Copyright: Jan Schultke (as retained in the bundled source headers)
+License text: licenses/EisenNBT-MIT.txt
+
+[PacketWrapper]
+URL: https://github.com/dmulloy2/PacketWrapper
+License: GNU Lesser General Public License v3.0
+
+The GNU Lesser General Public License v3.0 text is included in
+licenses/LGPL-3.0.txt and incorporates the GPL v3 text in LICENSE.txt.
+
+Additional bundled libraries by the original author:
+
+[FCommons]
+Author: filoghost and contributors
+URL: https://github.com/filoghost/FCommons
+Version used by the build: 1.2.8-SNAPSHOT
+
+[UpdateChecker]
+Author: filoghost
+URL: https://github.com/filoghost/UpdateChecker
+Version used by the build: 1.0.0
+
+PlaceholderAPI and the Bukkit/Spigot server API are provided dependencies,
+not shaded into the release JAR. Their respective authors retain ownership.
